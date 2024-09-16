@@ -3,6 +3,7 @@
 This project is a frontend prototype of an Online Book Store developed using Apache NetBeans. It provides an interface for users to browse and interact with a collection of books. The frontend is built with a combination of HTML, Java, and CSS.
 
 **Technology Stack**
+
 HTML (50.3%) for structuring the web pages.
 
 Java (47.0%) for managing user interactions and backend integration logic.
